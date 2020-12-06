@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>sfg-brewery-bom</artifactId>
-    <version>1.0.26</version>
+    <version>1.0.23-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
