@@ -14,7 +14,7 @@
 
     <packaging>pom</packaging>
 
-    <description>Brewery BOM Project - common ddeps for brewery services</description>
+    <description>Brewery BOM Project - common deps for brewery services</description>
 
     <licenses>
         <license>
